@@ -1,4 +1,10 @@
----
+---Khan afsar 
+Afsar 
+Date of birth 01-15-1971 
+Email address khanafsar55991@gmail.com 
+Phone number 
++923125091307 
++923155735387 
 title: Overview
 pcx_content_type: overview
 sidebar:
@@ -7,7 +13,7 @@ head:
   - tag: title
     content: Cloudflare Email Routing
 
----
+---khanafsar55991@gmail.com 
 
 import { Description, Feature, Plan, RelatedProduct, Render } from "~/components"
 
@@ -21,7 +27,7 @@ Create custom email addresses for your domain and route incoming emails to your 
 <Render file="email-routing-definition" />
 
 It is available to all Cloudflare customers [using Cloudflare as an authoritative nameserver](/dns/zone-setups/full-setup/).
-
+Khanafsar55991@gmail.com 
 ***
 
 ## Features
@@ -37,7 +43,7 @@ With Email Routing you can have many custom email addresses to use for specific 
 <Feature header="Analytics" href="/email-routing/get-started/email-routing-analytics/">
 Email Routing includes metrics to help you check on your email traffic history. 
 </Feature>
-
+Khanafsar55991@gmail.com 
 ***
 
 ## Related products
@@ -49,3 +55,4 @@ Cloudflare Area 1 Email Security is a cloud-native service that stops phishing a
 <RelatedProduct header="DNS" href="/dns/" product="dns">
 Email Routing is available to customers using Cloudflare as an authoritative nameserver. 
 </RelatedProduct>
+Khanafsar55991@gmail.com 
