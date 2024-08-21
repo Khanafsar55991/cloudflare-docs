@@ -1,4 +1,9 @@
----
+---Khan afsar 
+Afsar 
+01-15-1971 
++923155735387 +923125091307 
+Khanafsar55991@gmail.com 
+BankA/C- PK37ABPA0010035560520012
 pcx_content_type: navigation
 title: Cloudflare Errors
 sidebar:
